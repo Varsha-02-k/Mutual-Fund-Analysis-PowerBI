@@ -1,10 +1,10 @@
 📊 ****Mutual Fund Analysis Project (India – 2025)****
 
-🔹 Project Overview
+###🔹 Project Overview
 
 This project presents an end-to-end data analysis of the India Mutual Fund Dataset 2025 using Python (Google Colab) and Power BI. The goal is to analyze fund performance, risk, and portfolio composition, and build an interactive dashboard system for investment insights.
 
-🔹 Dataset Details
+###🔹 Dataset Details
 
 Dataset Name: Mutual Fund Dataset 2025
 
