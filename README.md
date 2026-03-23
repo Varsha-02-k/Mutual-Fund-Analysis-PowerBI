@@ -1,13 +1,19 @@
-#📊 **Mutual Fund Analysis Project (India – 2025)**
+📊 ****Mutual Fund Analysis Project (India – 2025)****
+
 🔹 Project Overview
 
 This project presents an end-to-end data analysis of the India Mutual Fund Dataset 2025 using Python (Google Colab) and Power BI. The goal is to analyze fund performance, risk, and portfolio composition, and build an interactive dashboard system for investment insights.
 
 🔹 Dataset Details
+
 Dataset Name: Mutual Fund Dataset 2025
+
 Total Rows: 1797
+
 Total Columns: 37
+
 Key Columns:
+
 Fund Details: Funds, Fund Manager, Category, Fund Type
 Financial Metrics: AUM (in Rs. Cr), NAV, Expense Ratio (%)
 Returns: 1 Month, 3 Month, 6 Month, 1 Year, 3 Year, 5 Year, 10 Year
